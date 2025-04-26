@@ -1,4 +1,4 @@
-# 📊 Quantifying Portfolio Risk: VaR, CVaR, and Stress Testing
+# 📊 Portfolio Risk Modeling: VaR, CVaR, and Stress Testing
 
 ## Overview
 This project develops a full portfolio risk management framework using Value at Risk (VaR), Conditional Value at Risk (CVaR), and stress testing techniques.  
